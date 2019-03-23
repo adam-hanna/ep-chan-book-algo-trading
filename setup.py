@@ -27,6 +27,7 @@ with open("README.md", "r") as fh:
             "pykalman==0.9.5",
             "pandas",
             "numpy",
+            "tushare",
         ],
         test_suite='nose.collector',
         tests_require=['nose'],
