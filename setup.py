@@ -31,6 +31,7 @@ with open("README.md", "r") as fh:
             "arch",
             "psycopg2",
             "statsmodels==0.9.0",
+            "configparser",
         ],
         test_suite='nose.collector',
         tests_require=['nose'],

@@ -109,3 +109,6 @@ References/
 
 *.sh
 *.swp
+
+*.tsv
+*.ini
